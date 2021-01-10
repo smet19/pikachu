@@ -1,0 +1,17 @@
+notebooks/*
+*/env*
+*/venv*
+*.env
+*.log
+*.tox/*
+notebooks/dataset/*
+packages/cnn_model/.tox/*
+packages/cnn_model/build/*
+packages/cnn_model/cnn_model.egg-info/*
+packages/cnn_model/cnn_model/dataset/*
+packages/cnn_model/cnn_model/__pycache__/*
+packages/web_api/.tox/*
+packages/web_api/logs/*
+scripts/*
+.git
+.gitignore

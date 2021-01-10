@@ -1,0 +1,6 @@
+# server
+flask==1.1.2
+
+# local classifier_model package
+# update with your local path
+-e "/Users/Smet19/POSII/pikachu/packages/cnn_model"

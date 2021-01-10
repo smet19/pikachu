@@ -112,3 +112,4 @@ venv.bak/
 # datafiles
 notebooks/dataset/
 packages/cnn_model/cnn_model/dataset/
+*.zip

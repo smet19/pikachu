@@ -1,0 +1,9 @@
+# building nn
+tensorflow==2.4.0
+
+# image processing
+pillow==8.0.1
+
+# testing
+pytest==6.2.1
+
